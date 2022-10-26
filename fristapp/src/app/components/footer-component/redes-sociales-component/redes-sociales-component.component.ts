@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./redes-sociales-component.component.css']
 })
 export class RedesSocialesComponentComponent implements OnInit {
-
+  casaChollo:String= "casachollo"
+  
   constructor() { }
 
   ngOnInit(): void {

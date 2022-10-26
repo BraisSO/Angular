@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header-component.component.css']
 })
 export class HeaderComponentComponent implements OnInit {
-  casaChollo:String= "Casachollo";
+  casaChollo:String= "casachollo";
   comprarAlquilar:String= "Comprar | Alquilar";
   misAlertas:String= "Mis Alertas";
   favoritos:String= "Favoritos";
